@@ -12,6 +12,18 @@ sudo apt-get install sqlite
 ```
 pip install bs4
 ```
+#### For running the program ::
+```
+git clone https://github.com/Jimut123/INFINITE-WORD-COLLECTOR.git
+
+cd INFINITE-DICTIONARY
+
+python3 dict.py
+
+
+```
+
+
 ## A glance of the database and the data collected is given here
 It collects the unique words only, since the word is set to unique key
 #### Some Glances of Data Collected (travelled links)
