@@ -1,4 +1,4 @@
-# INFINITE-WORD-COLLECTOR
+# INFINITE-WORD-COLLECTOR [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This program collects the unique words by travelling all the travelled links, this is a continuation
 to the [WEB-CRAWLLER](https://github.com/Jimut123/WEB-CRAWLLER) winter proj. 
 
