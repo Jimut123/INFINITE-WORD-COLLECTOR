@@ -1,4 +1,4 @@
-# INFINITE-WORD-COLLECTOR [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# INFINITE-WORD-COLLECTOR [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 This program collects the unique words by travelling all the travelled links, this is a continuation
 to the [WEB-CRAWLLER](https://github.com/Jimut123/WEB-CRAWLLER) winter proj. 
 
